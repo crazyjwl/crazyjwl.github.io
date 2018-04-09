@@ -1,0 +1,54 @@
+html,body{
+  width: 100%;
+  height:100%;
+}
+body{
+  font-family: 'East Sea Dokdo', cursive;
+}
+.container{
+  margin: auto;
+  display: table;
+}
+.row{
+  display: table-row;
+}
+.faded {
+  color: rgba(255, 255, 255, 0.8);
+}
+header.startup {
+  background-position: center;
+  background-image: url("https://static1.squarespace.com/static/57ab7aa7197aeaaea8583d1f/57ab7b3a2994ca459bc1f304/57ab7ebc37c58137466e650c/1471018895040/Landscape-9.jpg?format=1000w");
+  background-size: cover;
+  height: 100%;
+}
+header.startup h1 {
+  font-size: 100px;
+}
+@media screen and (min-width:1300px) {
+  header.startup h1 {
+    font-size: 160px;
+  }
+}
+@media screen and (max-width:500px) {
+  header.startup h1 {
+    font-size: 60px;
+  }
+}
+.btn {
+  font-weight: 100;
+  border-radius: 300px;
+  font-family: sans-serif;
+}
+.btn-xl {
+  padding: 1rem 2rem;
+}
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
