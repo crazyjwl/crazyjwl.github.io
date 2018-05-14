@@ -1,3 +1,3 @@
-# Welcome to the Crazy World
+# Welcome to the [Crazy World](https://crazyjwl.github.io/)
 
 Powered by Wordpress and JS and more...
