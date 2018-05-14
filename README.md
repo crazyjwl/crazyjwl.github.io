@@ -1,0 +1,3 @@
+# Welcome to the Crazy World
+
+Powered by Wordpress and JS and more...
